@@ -15,7 +15,7 @@ public class Stringswapping {
 		System.out.println("name2------"+name2);
 		
 		
-	}
+	}//main method
 	
 
-}
+}//class
